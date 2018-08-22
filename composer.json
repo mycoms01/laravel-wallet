@@ -1,5 +1,5 @@
 {
-    "name": "depsimon/laravel-wallet",
+    "name": "Mycoms01/laravel-wallet",
     "description": "Easy to use virtual wallet for your app",
     "keywords": [
         "depsimon",
@@ -9,16 +9,12 @@
         "credits",
         "wallet"
     ],
-    "homepage": "https://github.com/depsimon/laravel-wallet",
+    "homepage": "",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Simon Depelchin",
-            "email": "simon@webartisan.be",
-            "homepage": "https://webartisan.be",
-            "role": "Developer"
-        }
-    ],
+    "authors": [{
+        "name": "",
+        "email": ""
+    }],
     "require": {
         "php": "^7.0",
         "illuminate/database": "~5.6"
@@ -46,4 +42,5 @@
             }
         }
     }
+
 }
