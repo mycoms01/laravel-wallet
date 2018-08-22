@@ -6,6 +6,10 @@ return [
      * Which model is your User's
      */
     'user_model' => 'App\User',
+    /**
+     * Which hash is your prefix
+     */
+    'hash_prefix'=>'wl-',
 
     /**
      * Change this if you extend the default Wallet Model
